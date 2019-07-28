@@ -1,0 +1,11 @@
+.App .row {
+  margin-top: 50px;
+}
+
+.App .row:nth-child(2) {
+  margin-top: 150px;
+}
+
+h1 {
+  font-size: 1.8rem;
+}
